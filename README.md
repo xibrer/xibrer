@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **xibrer/xibrer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Xingwei Wang
+Hi there 👋,My name is Xingwei Wang
+I'm a second year student at BJUT and now joint education with Soochow University
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xibrer&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xibrer&count_private=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
