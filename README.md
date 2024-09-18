@@ -13,6 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Hi there 👋,My name is Xingwei Wang
+
 I'm a second year student at BJUT and now joint education with Soochow University
+
+My research interests mainly revolve around AIOT for medical(like ECG and BP).
+
+I hope to develop a toolbox like torchvision in sensing
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xibrer&count_private=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
