@@ -16,7 +16,7 @@ Hi there 👋,My name is Xingwei Wang
 
 I'm a second year master's student at BJUT and now joint education with Soochow University
 
-My research interests mainly revolve around AIOT for medical(like ECG and BP).
+My research interests mainly revolve around AIOT for medical (like ECG and BP).
 
 I hope to develop a toolbox like torchvision in sensing
 
