@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 Hi there 👋,My name is Xingwei Wang
 
-I'm a second year student at BJUT and now joint education with Soochow University
+I'm a second year master's student at BJUT and now joint education with Soochow University
 
 My research interests mainly revolve around AIOT for medical(like ECG and BP).
 
