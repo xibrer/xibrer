@@ -18,7 +18,7 @@ I'm a second year master's student at BJUT and now joint education with Soochow 
 
 My research interests mainly revolve around AIOT Signals like (IMU, Audio, LED) for medical (like ECG and BP).
 
-I hope to develop a toolbox like torchvision in sensing
+I hope to develop a series of toolbox like torchvision in sensing
 
 [![Personal Page](https://img.shields.io/badge/Personal%20Page-Visit-blueviolet)](https://xibrer.github.io/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue)](https://scholar.google.com/citations?hl=zh-CN&user=NF-6qWUAAAAJ)
